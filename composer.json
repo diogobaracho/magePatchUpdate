@@ -1,0 +1,22 @@
+{
+    "name": "magento/magepatchupdate",
+    "description": "lib to easy apply patchs for magento",
+    "type": "library",
+    "keywords": ["magento","patch update"],
+    "homepage": "https://github.com/diogobaracho/magePatchUpdate",
+    "authors": [
+        {
+            "name": "diogobaracho",
+            "email": "diogobaracho@w3up.com.br",
+            "twitter": "@diogobaracho"
+        },
+        {
+            "name": "joridos",
+            "email": "jonatam.ribeiro@hotmail.com",
+            "twitter": "@joridos"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
